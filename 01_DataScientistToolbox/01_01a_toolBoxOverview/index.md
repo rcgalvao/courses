@@ -2,7 +2,7 @@
 title       : The Data Scientist's Toolbox
 subtitle    : 
 author      :  
-job         : Johns Hopkins Bloomberg School of Public Health
+job         : Johns Hopkins Bloomberg School of Public Health_
 logo        : bloomberg_shield.png
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
